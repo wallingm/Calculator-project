@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad">10dp</dimen>
+    <dimen name="text_size">45sp</dimen>
+    <dimen name="button_width">85dp</dimen>
+    <dimen name="button_height">68dp</dimen>
+    <dimen name="button_height_layout">50dp</dimen>
+    <dimen name="button_width_layout">115dp</dimen>
+</resources>
